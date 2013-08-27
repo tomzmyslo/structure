@@ -1,0 +1,1 @@
+Boilerplate for basic HTML5 page/site, especially simple for trial and error.
